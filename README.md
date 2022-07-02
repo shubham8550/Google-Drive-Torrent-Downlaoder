@@ -56,3 +56,4 @@ Open This Script in google colab change magnet link in 4th cell And Run Each Cel
 > :[https://github.com/shubham8550/Google-Drive-Torrent-Downlaoder](https://github.com/shubham8550/Google-Drive-Torrent-Downlaoder)
 > 
 > Star My Repository and follow me on Github.
+<img alt="shubham8550/stars-github" src="https://stars-github.herokuapp.com/shubham8550/Google-Drive-Torrent-Downlaoder">
